@@ -17,7 +17,7 @@ PostgreSQL  is an open-source, highly stable database system that provides suppo
 * Python scripts for initiating connection between dataframe and database [FOR THE CODE CLICK ME.](https://github.com/Clintonnick3/SQL-Project-Famous-Painting-/blob/main/paint.py)
 * Authenticating servers, creating database, creating tables and migrating datas from pandas dataframe to postgreSQL database.
 * Module which I have used is **SQLALCHEMY** and **CREATE_ENGINE** and we can use other module is **PSYCOPG2**.
-[want to know what is postgresql](https://kinsta.com/knowledgebase/what-is-postgresql/#what-is-postgresql)
+* [want to know what is postgresql](https://kinsta.com/knowledgebase/what-is-postgresql/#what-is-postgresql)
 
 
 # Famous paintings Dataset [Link](https://www.kaggle.com/datasets/mexwell/famous-paintings)
